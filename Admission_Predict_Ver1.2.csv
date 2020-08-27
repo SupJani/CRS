@@ -1,0 +1,497 @@
+GRE Score,univ_name,Admit
+337,Alabama A & M U,yes
+324,Alabama Library Association,yes
+316,Alabama Public Library Service,no
+322,Alabama State U,no
+314,Amridge U,no
+330,Athens State Coll,yes
+321,Auburn U Auburn,yes
+308,Auburn U CSDCAS,yes
+302,Auburn U Montgomery,no
+323,Birmingham,yes
+325,Columbia Southern U,yes
+327,Faulkner U,no
+328,Heritage Bible Coll,no
+307,Heritage Christian U,yes
+311,Huntingdon Coll,no
+314,Jacksonville State U,yes
+317,Judson Coll,no
+319,Kingdom College,yes
+318,Miles Coll,yes
+303,Oakwood Coll,no
+312,Samford U,yes
+325,Samford U ATCAS,yes
+328,Samford U Brock Sch Business,yes
+334,Samford U CASPA,yes
+336,Samford U CSDCAS,yes
+340,Samford U Phys Therapy PTCAS,yes
+322,Southeastern Bible Coll,yes
+298,Spring Hill Coll,yes
+295,Stillman Coll,no
+310,Talladega Coll,no
+300,Troy U Dothan,yes
+327,Troy U Montgomery,no
+338,Troy U Troy,no
+340,Tuskegee U,yes
+331,U Alabama Birmingham,no
+320,U Alabama Birmingham Phys Therapy PTCAS,yes
+299,Northern Arizona U,no
+300,Northern Arizona U,yes
+304,Northern Arizona U CASPA,yes
+307,Northern Arizona U CSDCAS,no
+308,Northern Arizona U Phys Therapy,yes
+316,Prescott Coll,yes
+313,Project 1000,yes
+332,Salt River Project,
+326,Southwestern Coll Naturopath Med,
+322,Still U Arizona Sch Hlth Sci,
+329,Thunderbird Sch Global Mgmt Arizona State U,
+339,Troy U Davis-Monthan AFB AZ,
+321,U Advancing Computer Tech,
+327,U Arizona,
+313,U Arizona Coll Pub Hlth SOPHAS,
+312,U Arizona DPS Coll Education,
+334,U Arizona Eller Coll Mgmt,
+324,U Arizona James E Rogers College of Law,
+322,U Arizona Optical Sci Ctr,
+320,U Arizona Planetary Sci,
+316,U Phoenix,
+298,U Phoenix Tucson,
+300,Arizona Christian U,
+311,Arizona State U,
+309,Arizona State U West,
+307,Arizona Summit Law Sch,
+304,A T Still U Arizona PTCAS,
+315,Concordia U Portland Online,
+325,DeVry U Phoenix,
+325,Embry Riddle Aeronautical U,
+327,Frank Lloyd Wright Sch,
+316,Grand Canyon U,
+318,Midwestern U,
+328,Midwestern U Glendale CMPS Phys Therapy,
+332,Midwestern U Phys Asst CASPA,
+336,Academy of Art U,
+321,Alliant Intl U,
+314,American Baptist Seminary West,
+314,American Coll Traditional Chinese Med,
+329,American Grad U,
+327,American Jewish U,
+301,American U Complementary Medicine,
+296,American U Health Sciences,
+294,Antioch U Los Angeles,
+312,Antioch U Santa Barbara,
+340,Argosy U Orange County,
+320,Art Center Coll Design,
+322,Azusa Pacific U,
+340,Bethel Seminary San Diego,
+319,Biola U,
+315,Brandman U,
+317,Brooks Inst,
+314,California Baptist U,
+316,California College of Arts,
+318,California Inst Arts,
+299,California Inst Integral Stds,
+301,California Lutheran U,
+303,California Maritime Acad,
+304,California Northstate U PSYCAS,
+306,California Sch Law,
+331,Alabama A & M U,yes
+332,Alabama Library Association,no
+323,Alabama Public Library Service,no
+322,Alabama State U,yes
+312,Amridge U,no
+314,Athens State Coll,yes
+317,Auburn U Auburn,no
+326,Auburn U CSDCAS,yes
+316,Auburn U Montgomery,yes
+329,Birmingham-Southern Coll,no
+338,Columbia Southern U,yes
+331,Faulkner U,yes
+304,Heritage Bible Coll,yes
+305,Heritage Christian U,yes
+321,Huntingdon Coll,yes
+301,Jacksonville State U,yes
+320,Judson Coll,yes
+311,Kingdom College,yes
+310,Miles Coll,no
+299,Oakwood Coll,no
+290,Samford U,yes
+296,Samford U ATCAS,no
+327,Samford U Brock Sch Business,no
+335,Samford U CASPA,yes
+334,Samford U CSDCAS,no
+310,Samford U Phys Therapy PTCAS,yes
+308,Southeastern Bible Coll,no
+301,Spring Hill Coll,yes
+300,Stillman Coll,yes
+323,Talladega Coll,no
+319,Troy U Dothan,yes
+326,Troy U Montgomery,yes
+333,Troy U Troy,yes
+339,Tuskegee U,yes
+303,U Alabama Birmingham,yes
+309,U Alabama Birmingham Phys Therapy PTCAS,yes
+323,Northern Arizona U,yes
+333,Northern Arizona U,yes
+314,Northern Arizona U CASPA,no
+312,Northern Arizona U CSDCAS,no
+316,Northern Arizona U Phys Therapy,yes
+326,Prescott Coll,no
+318,Project 1000,no
+329,Salt River Project,yes
+332,Southwestern Coll Naturopath Med,no
+331,Still U Arizona Sch Hlth Sci,yes
+340,Thunderbird Sch Global Mgmt Arizona State U,no
+325,Troy U Davis-Monthan AFB AZ,yes
+320,U Advancing Computer Tech,yes
+315,U Arizona,no
+326,U Arizona Coll Pub Hlth SOPHAS,yes
+339,U Arizona DPS Coll Education,yes
+311,U Arizona Eller Coll Mgmt,yes
+334,U Arizona James E Rogers College of Law,yes
+332,U Arizona Optical Sci Ctr,yes
+321,U Arizona Planetary Sci,yes
+324,U Phoenix,yes
+326,U Phoenix Tucson,yes
+312,Arizona Christian U,no
+315,Arizona State U,no
+309,Arizona State U West,yes
+306,Arizona Summit Law Sch,no
+297,A T Still U Arizona PTCAS,no
+315,Concordia U Portland Online,yes
+298,DeVry U Phoenix,no
+318,Embry Riddle Aeronautical U,yes
+317,Frank Lloyd Wright Sch,no
+329,Grand Canyon U,yes
+322,Midwestern U,yes
+302,Midwestern U Glendale CMPS Phys Therapy,no
+313,Midwestern U Phys Asst CASPA,yes
+293,Academy of Art U,yes
+311,Alliant Intl U,yes
+312,American Baptist Seminary West,yes
+334,American Coll Traditional Chinese Med,yes
+322,American Grad U,yes
+323,American Jewish U,yes
+321,American U Complementary Medicine,yes
+320,American U Health Sciences,no
+329,Antioch U Los Angeles,no
+319,Antioch U Santa Barbara,yes
+309,Argosy U Orange County,no
+307,Art Center Coll Design,no
+300,Azusa Pacific U,yes
+305,Bethel Seminary San Diego,no
+299,Biola U,yes
+314,Brandman U,no
+316,Brooks Inst,yes
+327,California Baptist U,yes
+317,California College of Arts,no
+335,California Inst Arts,yes
+331,California Inst Integral Stds,yes
+324,California Lutheran U,yes
+323,California Maritime Acad,yes
+322,California Northstate U PSYCAS,yes
+336,California Sch Law,yes
+316,Brooks Inst,yes
+307,California Baptist U,no
+306,California College of Arts,no
+310,California Inst Arts,yes
+311,California Inst Integral Stds,no
+317,California Lutheran U,yes
+315,California Maritime Acad,no
+340,California Northstate U PSYCAS,yes
+334,California Sch Law,no
+298,Troy U Davis-Monthan AFB AZ,yes
+295,U Advancing Computer Tech,yes
+315,U Arizona,no
+310,U Arizona Coll Pub Hlth SOPHAS,yes
+305,U Arizona DPS Coll Education,yes
+301,U Arizona Eller Coll Mgmt,yes
+325,U Arizona James E Rogers College of Law,yes
+328,U Arizona Optical Sci Ctr,yes
+338,U Arizona Planetary Sci,yes
+333,U Phoenix,yes
+331,U Phoenix Tucson,yes
+330,Arizona Christian U,no
+322,Arizona State U,no
+321,Arizona State U West,yes
+324,Arizona Summit Law Sch,no
+312,A T Still U Arizona PTCAS,no
+313,Concordia U Portland Online,yes
+316,DeVry U Phoenix,no
+324,Embry Riddle Aeronautical U,yes
+308,Frank Lloyd Wright Sch,no
+305,Grand Canyon U,yes
+296,Midwestern U,yes
+306,Midwestern U Glendale CMPS Phys Therapy,no
+312,Midwestern U Phys Asst CASPA,yes
+318,Academy of Art U,yes
+324,Alliant Intl U,yes
+313,American Baptist Seminary West,yes
+319,American Coll Traditional Chinese Med,yes
+312,American Grad U,yes
+304,American Jewish U,yes
+330,American U Complementary Medicine,yes
+326,American U Health Sciences,no
+325,Antioch U Los Angeles,no
+329,Antioch U Santa Barbara,yes
+310,Argosy U Orange County,no
+299,Art Center Coll Design,no
+296,Azusa Pacific U,yes
+317,Bethel Seminary San Diego,no
+324,Biola U,yes
+325,Brandman U,no
+314,Brooks Inst,yes
+328,California Baptist U,yes
+316,California College of Arts,no
+311,California Inst Arts,yes
+324,California Inst Integral Stds,yes
+320,California Lutheran U,yes
+316,California Maritime Acad,yes
+318,California Northstate U PSYCAS,yes
+335,California Sch Law,yes
+321,Brooks Inst,yes
+307,California Baptist U,no
+309,U Advancing Computer Tech,no
+324,U Arizona,yes
+326,U Arizona Coll Pub Hlth SOPHAS,no
+331,U Arizona DPS Coll Education,no
+327,U Arizona Eller Coll Mgmt,yes
+312,U Arizona James E Rogers College of Law,no
+308,U Arizona Optical Sci Ctr,yes
+324,U Arizona Planetary Sci,no
+325,U Phoenix,yes
+313,U Phoenix Tucson,yes
+312,Arizona Christian U,no
+314,Arizona State U,yes
+327,Arizona State U West,yes
+308,Arizona Summit Law Sch,yes
+306,A T Still U Arizona PTCAS,yes
+299,Concordia U Portland Online,yes
+294,DeVry U Phoenix,yes
+312,Embry Riddle Aeronautical U,yes
+315,Frank Lloyd Wright Sch,yes
+322,Grand Canyon U,no
+329,Midwestern U,no
+320,Midwestern U Glendale CMPS Phys Therapy,yes
+308,Midwestern U Phys Asst CASPA,no
+304,Academy of Art U,no
+311,Alliant Intl U,yes
+317,American Baptist Seminary West,no
+312,American Coll Traditional Chinese Med,yes
+321,American Grad U,no
+340,American Jewish U,yes
+331,American U Complementary Medicine,yes
+336,American U Health Sciences,no
+324,Antioch U Los Angeles,yes
+314,Antioch U Santa Barbara,yes
+313,Argosy U Orange County,yes
+307,Art Center Coll Design,yes
+300,Azusa Pacific U,yes
+302,Bethel Seminary San Diego,yes
+312,Biola U,yes
+316,Brandman U,yes
+317,Brooks Inst,no
+310,California Baptist U,no
+320,California College of Arts,yes
+330,California Inst Arts,no
+305,California Inst Integral Stds,no
+309,California Lutheran U,yes
+319,California Maritime Acad,no
+322,California Northstate U PSYCAS,yes
+323,California Sch Law,no
+313,Brooks Inst,yes
+321,California Baptist U,yes
+323,California College of Arts,no
+325,California Inst Arts,yes
+312,California Inst Integral Stds,yes
+308,California Lutheran U,yes
+320,California Maritime Acad,yes
+328,California Northstate U PSYCAS,yes
+311,California Sch Law,yes
+301,Troy U Davis-Monthan AFB AZ,yes
+305,U Advancing Computer Tech,yes
+308,U Arizona,no
+298,U Arizona Coll Pub Hlth SOPHAS,no
+300,U Arizona DPS Coll Education,yes
+324,U Arizona Eller Coll Mgmt,no
+327,U Arizona James E Rogers College of Law,no
+317,U Arizona Optical Sci Ctr,yes
+323,U Arizona Planetary Sci,no
+314,U Phoenix,yes
+305,U Phoenix Tucson,no
+315,Arizona Christian U,yes
+326,Arizona State U,yes
+299,Arizona State U West,no
+295,Arizona Summit Law Sch,yes
+324,A T Still U Arizona PTCAS,yes
+297,Concordia U Portland Online,yes
+327,DeVry U Phoenix,yes
+311,Embry Riddle Aeronautical U,yes
+308,Frank Lloyd Wright Sch,yes
+319,Grand Canyon U,yes
+312,Midwestern U,yes
+325,Midwestern U Glendale CMPS Phys Therapy,no
+319,Midwestern U Phys Asst CASPA,no
+332,Academy of Art U,yes
+323,Alliant Intl U,no
+324,American Baptist Seminary West,no
+312,American Coll Traditional Chinese Med,yes
+326,American Grad U,no
+308,American Jewish U,yes
+305,American U Complementary Medicine,no
+295,American U Health Sciences,yes
+316,Antioch U Los Angeles,yes
+304,Antioch U Santa Barbara,no
+299,Argosy U Orange County,yes
+302,Art Center Coll Design,yes
+313,Azusa Pacific U,yes
+318,Bethel Seminary San Diego,yes
+325,Biola U,yes
+303,Brandman U,yes
+300,Brooks Inst,yes
+297,California Baptist U,yes
+317,California College of Arts,no
+327,California Inst Arts,no
+301,California Inst Integral Stds,yes
+314,California Lutheran U,no
+321,California Maritime Acad,no
+322,California Northstate U PSYCAS,yes
+334,California Sch Law,no
+338,Brooks Inst,yes
+306,California Baptist U,no
+313,U Advancing Computer Tech,yes
+330,U Arizona,yes
+320,U Arizona Coll Pub Hlth SOPHAS,no
+311,U Arizona DPS Coll Education,yes
+298,U Arizona Eller Coll Mgmt,yes
+301,U Arizona James E Rogers College of Law,yes
+310,U Arizona Optical Sci Ctr,yes
+324,U Arizona Planetary Sci,yes
+336,U Phoenix,yes
+321,U Phoenix Tucson,yes
+315,Arizona Christian U,yes
+304,Arizona State U,no
+297,Arizona State U West,no
+290,Arizona Summit Law Sch,yes
+303,A T Still U Arizona PTCAS,no
+311,Concordia U Portland Online,no
+322,DeVry U Phoenix,yes
+319,Embry Riddle Aeronautical U,no
+324,Frank Lloyd Wright Sch,yes
+300,Grand Canyon U,no
+340,Midwestern U,yes
+335,Midwestern U Glendale CMPS Phys Therapy,yes
+302,Midwestern U Phys Asst CASPA,no
+307,Academy of Art U,yes
+296,Alliant Intl U,yes
+320,American Baptist Seminary West,yes
+314,American Coll Traditional Chinese Med,yes
+318,American Grad U,yes
+326,American Jewish U,yes
+317,American U Complementary Medicine,yes
+329,American U Health Sciences,yes
+324,Antioch U Los Angeles,no
+325,Antioch U Santa Barbara,no
+330,Argosy U Orange County,yes
+312,Art Center Coll Design,no
+333,Azusa Pacific U,no
+304,Bethel Seminary San Diego,yes
+315,Biola U,no
+324,Brandman U,yes
+330,Brooks Inst,no
+311,California Baptist U,yes
+302,California College of Arts,yes
+322,California Inst Arts,no
+298,California Inst Integral Stds,yes
+297,California Lutheran U,yes
+300,California Maritime Acad,yes
+301,California Northstate U PSYCAS,yes
+313,California Sch Law,yes
+314,Brooks Inst,yes
+317,California Baptist U,yes
+321,California College of Arts,yes
+327,California Inst Arts,no
+315,California Inst Integral Stds,no
+316,California Lutheran U,yes
+309,California Maritime Acad,no
+308,California Northstate U PSYCAS,no
+299,California Sch Law,yes
+321,Troy U Davis-Monthan AFB AZ,no
+322,U Advancing Computer Tech,yes
+334,U Arizona,no
+325,U Arizona Coll Pub Hlth SOPHAS,yes
+323,U Arizona DPS Coll Education,yes
+312,U Arizona Eller Coll Mgmt,no
+310,U Arizona James E Rogers College of Law,yes
+316,U Arizona Optical Sci Ctr,yes
+340,U Arizona Planetary Sci,yes
+311,U Phoenix,yes
+320,U Phoenix Tucson,yes
+324,Arizona Christian U,yes
+316,Arizona State U,yes
+306,Arizona State U West,yes
+309,Arizona Summit Law Sch,no
+310,A T Still U Arizona PTCAS,no
+317,Concordia U Portland Online,yes
+318,DeVry U Phoenix,no
+312,Embry Riddle Aeronautical U,no
+305,Frank Lloyd Wright Sch,yes
+332,Grand Canyon U,no
+331,Midwestern U,yes
+321,Midwestern U Glendale CMPS Phys Therapy,no
+324,Midwestern U Phys Asst CASPA,yes
+328,Academy of Art U,yes
+327,Alliant Intl U,no
+320,American Baptist Seminary West,yes
+312,American Coll Traditional Chinese Med,yes
+315,American Grad U,yes
+320,American Jewish U,yes
+324,American U Complementary Medicine,yes
+328,American U Health Sciences,yes
+319,Antioch U Los Angeles,yes
+310,Antioch U Santa Barbara,yes
+305,Argosy U Orange County,no
+299,Art Center Coll Design,no
+295,Azusa Pacific U,yes
+312,Bethel Seminary San Diego,no
+329,Biola U,no
+319,Brandman U,yes
+301,Brooks Inst,no
+307,California Baptist U,yes
+304,California College of Arts,no
+298,California Inst Arts,yes
+305,California Inst Integral Stds,yes
+314,California Lutheran U,no
+318,California Maritime Acad,yes
+323,California Northstate U PSYCAS,yes
+326,California Sch Law,yes
+320,Brooks Inst,yes
+311,California Baptist U,yes
+327,U Advancing Computer Tech,yes
+316,U Arizona,yes
+308,U Arizona Coll Pub Hlth SOPHAS,yes
+300,U Arizona DPS Coll Education,no
+304,U Arizona Eller Coll Mgmt,no
+309,U Arizona James E Rogers College of Law,yes
+318,U Arizona Optical Sci Ctr,no
+325,U Arizona Planetary Sci,no
+321,U Phoenix,yes
+323,U Phoenix Tucson,no
+328,Arizona Christian U,yes
+304,Arizona State U,no
+317,Arizona State U West,yes
+311,Arizona Summit Law Sch,yes
+319,A T Still U Arizona PTCAS,no
+327,Concordia U Portland Online,yes
+322,DeVry U Phoenix,yes
+302,Embry Riddle Aeronautical U,yes
+307,Frank Lloyd Wright Sch,yes
+297,Grand Canyon U,yes
+298,Midwestern U,yes
+300,Midwestern U Glendale CMPS Phys Therapy,yes
+301,Midwestern U Phys Asst CASPA,yes
+332,Academy of Art U,no
+337,Alliant Intl U,no
+330,American Baptist Seminary West,yes
+312,American Coll Traditional Chinese Med,no
+327,American Grad U,no

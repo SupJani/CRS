@@ -1,0 +1,98 @@
+university_name,university_id,state,universityrating,avg_rating,no_of_ratings,user_rating
+Alabama A & M U,1003,Alabama,2,4.25,7156,0
+Alabama Library Association,3840,Alabama,2,4.31,7821,5
+Alabama Public Library Service,1248,Alabama,3,4.08,3836,5
+Alabama State U,1006,Alabama,2,3.52,1245,4
+Amridge U,9776,Alabama,1,4.13,3107,0
+Athens State Coll,1024,Alabama,4,4.08,6250,4
+Auburn U Auburn,1005,Alabama,2,3.71,3182,0
+Auburn U CSDCAS,7807,Alabama,4,3.96,7275,0
+Auburn U Montgomery,1036,Alabama,2,4.2,3148,1
+Birmingham-Southern Coll,1064,Alabama,4,4.09,3957,5
+Columbia Southern U,3878,Alabama,5,4,1966,1
+Faulkner U,1034,Alabama,2,4.24,1274,1
+Heritage Bible Coll,301,Alabama,3,4.3,1473,1
+Heritage Christian U,805,Alabama,4,4.41,2024,0
+Huntingdon Coll,1303,Alabama,3,4.31,1015,0
+Jacksonville State U,1736,Alabama,2,3.63,5948,1
+Judson Coll,1349,Alabama,4,3.97,5493,0
+Kingdom College,4077,Alabama,5,4.12,4607,3
+Miles Coll,1468,Alabama,2,4.05,2886,5
+Oakwood Coll,1586,Alabama,3,4.34,2417,1
+Samford U,1302,Alabama,4,4.34,2177,4
+Samford U ATCAS,1779,Alabama,2,4.24,7259,1
+Samford U Brock Sch Business,393,Alabama,3,4.14,6402,3
+Samford U CASPA,2733,Alabama,4,3.89,789,1
+Samford U CSDCAS,6967,Alabama,2,4.25,2636,0
+Samford U Phys Therapy PTCAS,1688,Alabama,4,4.05,569,1
+Southeastern Bible Coll,1723,Alabama,4,4.2,6643,5
+Spring Hill Coll,1733,Alabama,2,3.95,6768,5
+Stillman Coll,1739,Alabama,4,3.97,4701,0
+Talladega Coll,1800,Alabama,4,4.11,2288,1
+Troy U Dothan,1824,Alabama,2,4.53,17,5
+Troy U Montgomery,1798,Alabama,2,4,9,4
+Troy U Troy,1738,Alabama,4,3.71,109,3
+Tuskegee U,1813,Alabama,2,3.67,3,3
+U Alabama Birmingham,1856,Alabama,2,3.5,2,2
+U Alabama Birmingham Phys Therapy PTCAS,7801,Alabama,4,4.08,88,5
+Northern Arizona U,4006,Arizona,3,4.15,1656,0
+Northern Arizona U,1783,Arizona,2,4,5,5
+Northern Arizona U CASPA,2118,Arizona,2,4.57,118,0
+Northern Arizona U CSDCAS,6964,Arizona,3,4.16,3611,3
+Northern Arizona U Phys Therapy,7668,Arizona,2,4.14,133,5
+Prescott Coll,4639,Arizona,3,0,0,5
+Project 1000,4635,Arizona,3,4.11,35,3
+Salt River Project,4159,Arizona,3,0,0,3
+Southwestern Coll Naturopath Med,4733,Arizona,4,3.86,314,2
+Still U Arizona Sch Hlth Sci,3743,Arizona,3,4.04,27,5
+Thunderbird Sch Global Mgmt Arizona State U,4003,Arizona,4,4.75,4,4
+Troy U Davis-Monthan AFB AZ,4827,Arizona,3,3.88,455,0
+U Advancing Computer Tech,4168,Arizona,3,3.67,9,1
+U Arizona,4832,Arizona,4,4,16,0
+U Arizona Coll Pub Hlth SOPHAS,4253,Arizona,2,0,0,3
+U Arizona DPS Coll Education,3862,Arizona,4,3.88,2100,5
+U Arizona Eller Coll Mgmt,4154,Arizona,5,4.04,91,3
+U Arizona James E Rogers College of Law,2670,Arizona,2,,,5
+U Arizona Optical Sci Ctr,4808,Arizona,3,3,1,3
+U Arizona Planetary Sci,4912,Arizona,2,,,0
+U Phoenix,4911,Arizona,3,5,1,2
+U Phoenix Tucson,4919,Arizona,4,3.82,17,2
+Arizona Christian U,4736,Arizona,2,4,1,1
+Arizona State U,4007,Arizona,3,4.2,897,0
+Arizona State U West,4165,Arizona,4,3.62,90,4
+Arizona Summit Law Sch,6697,Arizona,2,3.46,13,3
+A T Still U Arizona PTCAS,7695,Arizona,3,0,0,0
+Concordia U Portland Online,72,Arizona,4,3.67,15,5
+DeVry U Phoenix,4277,Arizona,2,4,20,1
+Embry Riddle Aeronautical U,4305,Arizona,3,5,2,0
+Frank Lloyd Wright Sch,3571,Arizona,4,5,2,5
+Grand Canyon U,4331,Arizona,2,4.04,5931,4
+Midwestern U,4160,Arizona,3,4.11,9,3
+Midwestern U Glendale CMPS Phys Therapy,7600,Arizona,4,3.99,187,0
+Midwestern U Phys Asst CASPA,508,Arizona,2,4,362,0
+Academy of Art U,3354,California,3,0,0,5
+Alliant Intl U,4039,California,4,4,23,0
+American Baptist Seminary West,4016,California,2,3.77,188,0
+American Coll Traditional Chinese Med,3727,California,3,4.5,6,5
+American Grad U,8704,California,4,4.25,7156,3
+American Jewish U,4876,California,2,4.31,7821,0
+American U Complementary Medicine,6746,California,3,4.08,3836,3
+American U Health Sciences,4262,California,4,3.52,1245,3
+Antioch U Los Angeles,7032,California,2,4.13,3107,2
+Antioch U Santa Barbara,3119,California,3,4.08,6250,1
+Argosy U Orange County,8714,California,4,3.71,3182,5
+Art Center Coll Design,595,California,2,3.96,7275,2
+Azusa Pacific U,4596,California,3,4.2,3148,2
+Bethel Seminary San Diego,4195,California,2,4.09,3957,2
+Biola U,4017,California,4,4,1966,0
+Brandman U,4967,California,2,4.24,1274,1
+Brooks Inst,4228,California,3,4.3,1473,2
+California Baptist U,4094,California,2,4.41,2024,1
+California College of Arts,4031,California,3,4.31,1015,1
+California Inst Arts,4049,California,2,3.63,5948,1
+California Inst Integral Stds,4807,California,3,3.97,5493,0
+California Inst Tech,4034,California,2,4.12,4607,4
+California Lutheran U,4088,California,4,4.05,2886,3
+California Maritime Acad,4035,California,2,4.34,2417,5
+California Northstate U PSYCAS,4045,California,1,4.34,,4
+California Sch Law,4796,California,2,4.24,,0
