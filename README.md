@@ -1,7 +1,8 @@
-##To run the project
+#To run the project
+
 Run College Recommendation System.py using Python 3.7 version
 
-##About the project
+#About the project
 
 •	The university recommendation system assumes a significant role as university choice requires a great deal of study of the quantity of variables according to the future perspective. Looking for a decent university is a tough job for a graduate who needs to seek after his/her higher studies.
 •	Graduates look for different angles like university campus, teaching staffs, extracurricular exercises in universities, foundation of universities, and so on, even the surveys of university is looked to get additional affirmation about the subtleties.
