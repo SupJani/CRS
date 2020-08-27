@@ -16,6 +16,6 @@ Run College Recommendation System.py using Python 3.7 version
 
 •	We can use hybrid concept that is more than one algorithm to get better accuracy for the system. So we have applied three machine learning algorithms that is linear regression (which is used to solve regression problems), SVM (Support Vector Machine is used to solve classification or regression problems) and KNN (K Nearest Neighbours which is used to solve both classification problems and regression problems).
 
-•	The most accurate algorithm amongst the three is KNN for this recommendation system. This system will the recommend top 10 universities to the users.
+•	The most accurate algorithm amongst the three is KNN for this recommendation system. This system will then recommend top 10 universities to the users.
 
 •	KNN gives first preference to GRE score, SVM gives first preference to CGPA and Linear Regression gives first preference to TOEFL score.KNN gives 91% to 94% accuracy, SVM gives 85% to 90% accuracy and linear regression gives 81% to 85% accuracy.
